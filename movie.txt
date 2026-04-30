@@ -1,4 +1,4 @@
 movie store text file
 movie name : run
-movie song : song1
-move fight : fight1
+movie song : No Songs
+move fight : No Fights
